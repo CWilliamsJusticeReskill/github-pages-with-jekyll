@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Github-Built-Web-Page1
+author: CHRISTOPHER WILLIAMS
+email: ChrisW@SccColorado.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  First Github-Built Web-Page using Jekyll.  I am trying to familiarize myself with numerous different tools, and Git/Github are high on my priority list...LoL
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+
+github_username:  # https://github.com/CWilliamsJusticeReskill
 
 show_excerpts: true # set to false to remove excerpts on the homepage
