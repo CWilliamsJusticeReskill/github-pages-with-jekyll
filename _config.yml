@@ -3,10 +3,14 @@ title: Github-Built-Web-Page1
 author: CHRISTOPHER WILLIAMS
 email: ChrisW@SccColorado.org
 description: > # this means to ignore newlines until "baseurl:"
+---
+title: "My First Blog"
+date: 2020-10-19
+---
   First Github-Built Web-Page using Jekyll.  I am trying to familiarize myself with numerous different tools, and Git/Github are high on my priority list...LoL
 
 # social links
-twitter-account:  #
+twitter_username:  #
 github_username:  # CWilliamsJusticeReskill
 
 show_excerpts: true # set to false to remove excerpts on the homepage
