@@ -1,11 +1,10 @@
 title: Github-Built-Web-Page1
-author: CHRISTOPHER WILLIAMS
+author: CWilliamsJusticeReskill
 email: ChrisW@SccColorado.org
 description: > # this means to ignore newlines until "baseurl:"
 "Technical Movement 2020"
 
 # social links
-twitter_username:  
-github_username:  
-
+twitter_username:  #
+github_username:  #
 show_excerpts: true # set to false to remove excerpts on the homepage
